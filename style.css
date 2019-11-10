@@ -1,5 +1,8 @@
-#main-navbar {
+header { 
   background-color: blue;
+}
+
+#main-navbar {
   overflow: hidden;
   float: left; 
   width: 100%;
